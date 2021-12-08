@@ -29,7 +29,7 @@ def repos(external = True, repo_mapping = {}):
             name = "com_github_3rdparty_bazel_rules_tclap",
             #remote = "https://github.com/3rdparty/bazel-rules-libuv",
             remote = "https://github.com/ArthurBandaryk/bazel-rules-tclap",
-            commit = "171ca23e1f1c745f5ec98a36ff6369b7c4ab02c3",
+            commit = "0690b7aea40bee58216642531ed549aedd75f353",
             #shallow_since = "1631281455 +0000",
             repo_mapping = repo_mapping,
         )
